@@ -1,0 +1,2 @@
+# SnipeIT Labels
+ different Labelconfigurgations 
