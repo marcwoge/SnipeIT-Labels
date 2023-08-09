@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
-    <title>1 Labels NTC</title>
+    <title>1 Labels</title>
 </head>
 <body>
     <?php
